@@ -6,9 +6,6 @@ pipeline {
         echo 'hello'
       }
     }
-    stage('after') {
-      //some commands
-    }
 
   }  
 }
